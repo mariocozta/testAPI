@@ -1,0 +1,12 @@
+org\testAPI\controller\rest\TestController.class
+org\testAPI\persistence\dao\jpa\JpaQuestionDao.class
+org\testAPI\persistence\model\Model.class
+org\testAPI\services\QuestionService.class
+org\testAPI\persistence\dao\Dao.class
+org\testAPI\persistence\dao\jpa\GenericJPADao.class
+org\testAPI\persistence\model\AbstractModel.class
+org\testAPI\persistence\model\Question.class
+org\testAPI\persistence\QuestionType.class
+org\testAPI\services\QuestionServiceImpl.class
+org\testAPI\persistence\dao\QuestionDao.class
+org\testAPI\SpringBootstrap.class
